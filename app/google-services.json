@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "879431732014",
+    "project_id": "sift-computer",
+    "storage_bucket": "sift-computer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879431732014:android:eb2ee435793535720b48bf",
+        "android_client_info": {
+          "package_name": "com.logichexa.siftcomputer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879431732014-ps9uhv7u25vdflmscm1v4rdvjoca3vs4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9_c6_VxXNXpTuJtWJiwCuOFu4widaJ0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879431732014-ps9uhv7u25vdflmscm1v4rdvjoca3vs4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

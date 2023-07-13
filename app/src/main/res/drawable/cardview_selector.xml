@@ -1,0 +1,14 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <solid android:color="#BDBDBD" /> <!-- Shadow color when pressed -->
+            <corners android:radius="6dp" /> <!-- CardView corner radius -->
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#FFFFFF" /> <!-- Default background color -->
+            <corners android:radius="6dp" /> <!-- CardView corner radius -->
+        </shape>
+    </item>
+</selector>

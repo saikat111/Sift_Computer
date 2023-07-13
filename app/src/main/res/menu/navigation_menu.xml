@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_item1"
+        android:title="আমাদের ঠিকানা"
+        />
+    <item
+        android:id="@+id/nav_item2"
+        android:title="হোয়াটসঅ্যাপ নম্বর এবং ইমেল"
+        />
+
+    <item
+        android:id="@+id/nav_item3"
+        android:title="ফেসবুক"
+        />
+    <item
+        android:id="@+id/nav_item4"
+        android:title="App Developer Details"
+        />
+</menu>
