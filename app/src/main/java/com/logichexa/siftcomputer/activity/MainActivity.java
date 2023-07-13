@@ -172,9 +172,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         myEdit.putInt("count", a + i);
         myEdit.commit();
         loadAds();
-        SharedPreferences sh1 = getSharedPreferences("MySharedPref", MODE_APPEND);
-        int a1 = sh.getInt("count", 0);
-        Toast.makeText(getApplicationContext(),"click" + a1,Toast.LENGTH_LONG).show();
+
     }
 
     private void loadAds() {
