@@ -259,7 +259,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     private void showAdressialog() {
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
         builder.setTitle("আমাদের ঠিকানা")
-                .setMessage("হোটেল মোমো ইনের দক্ষিণ পাশে, ইসলাম প্লাজা, ডোকান নং-২, নওদাপাড়া, বগুড়া সদর, বগুড়া ।"
+                .setMessage("হোটেল মম-ইন এর দক্ষিণ পাশে, ইসলাম প্লাজা, দোকান নং-২, নওদাপাড়া, বগুড়া সদর, বগুড়া ।"
                         + "মোবাইল নাম্বার " + "  01746325048" + " হোয়াটসঅ্যাপ নম্বর" + " 01717830070")
                 .setPositiveButton("OK", new DialogInterface.OnClickListener() {
                     @Override
